@@ -28,7 +28,7 @@ let notes = [
     date: '2019-05-13T17:30:31.298Z',
     important: false
   }
-]270111
+]
 
 app.get('/', (request, response) => {
   response.send('<h1>Hello World</h1>')
